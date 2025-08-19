@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 18d955544da010c499414b7694d4a5db, type: 3}
-  m_Name: Rotation and Direction Sensetive Data Set
+  m_Name: Rotation and Direction Sensitive Data Set
   m_EditorClassIdentifier: 
   <Patterns>k__BackingField:
   - {fileID: 11400000, guid: 77edc25b6060d65489360dcd524c0ece, type: 2}

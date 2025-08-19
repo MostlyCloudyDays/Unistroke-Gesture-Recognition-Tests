@@ -6,7 +6,8 @@
         "UnityEditor.TestRunner",
         "UnistrokeGestureRecognition.Example",
         "Unity.Mathematics",
-        "UnistrokeGestureRecognition"
+        "UnistrokeGestureRecognition",
+        "Unity.PerformanceTesting"
     ],
     "includePlatforms": [
         "Editor"
