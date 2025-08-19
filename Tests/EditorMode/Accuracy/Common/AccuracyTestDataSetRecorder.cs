@@ -21,7 +21,7 @@ public class AccuracyTestDataSetRecorder : MonoBehaviour {
     private JobHandle? _recognizeJob;
 
     private void Awake() {
-        _gestureRecorder = new GestureRecorder(512, 0);
+        _gestureRecorder = new GestureRecorder(1024, 0);
         _recognizer = new GestureRecognizer<AccuracyTestGesturePattern>(DataSet.Patterns, 256);
     }
 
@@ -37,7 +37,7 @@ public class AccuracyTestDataSetRecorder : MonoBehaviour {
 
     private void Update() {
         if (Input.GetKeyUp(KeyCode.Mouse0)) {
-            if (_gestureRecorder.Length > 30) {
+            if (_gestureRecorder.Length > 10) {
                 RecognizeRecordedGesture();
             }
         }

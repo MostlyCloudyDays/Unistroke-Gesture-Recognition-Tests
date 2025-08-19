@@ -166,11 +166,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3dabfb4519016041808e356486fa124, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <DataSet>k__BackingField: {fileID: 11400000, guid: 72a6e5f9981846e419fc496b6d374b70,
+  <DataSet>k__BackingField: {fileID: 11400000, guid: 3885d4cc8eeecb6479848e12e3481031,
     type: 2}
   _minimumScore: 0.6
   _pathDrawer: {fileID: 1811144315}
   _nameController: {fileID: 2016240252}
+  _camera: {fileID: 0}
 --- !u!1 &78968333
 GameObject:
   m_ObjectHideFlags: 0

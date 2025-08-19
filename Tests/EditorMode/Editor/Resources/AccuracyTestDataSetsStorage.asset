@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <RotationAndDirectionSensitiveSet>k__BackingField: {fileID: 11400000, guid: 72a6e5f9981846e419fc496b6d374b70,
     type: 2}
+  <RotationSensitiveAndDirectionInvariantSet>k__BackingField: {fileID: 11400000, guid: 1fc5fc56f9bded7488f68770e2055adc,
+    type: 2}
+  <RotationInvariantAndDirectionSensitiveSet>k__BackingField: {fileID: 11400000, guid: f20a57d99d6cfac4ebc5ed752aec9235,
+    type: 2}
+  <RotationAndDirectionInvariantSet>k__BackingField: {fileID: 11400000, guid: 3885d4cc8eeecb6479848e12e3481031,
+    type: 2}
