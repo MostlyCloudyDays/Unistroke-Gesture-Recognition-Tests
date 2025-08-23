@@ -1,6 +1,6 @@
 using System.Collections;
 using NUnit.Framework;
-using UnistrokeGestureRecognition;
+using MostlyCloudy.LineGestures;
 using Unity.PerformanceTesting;
 using UnityEngine.TestTools;
 

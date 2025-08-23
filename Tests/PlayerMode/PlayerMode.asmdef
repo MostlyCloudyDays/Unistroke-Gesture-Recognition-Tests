@@ -4,9 +4,9 @@
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "UnistrokeGestureRecognition",
         "Unity.Mathematics",
-        "Unity.PerformanceTesting"
+        "Unity.PerformanceTesting",
+        "MostlyCloudy.LineGestures"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

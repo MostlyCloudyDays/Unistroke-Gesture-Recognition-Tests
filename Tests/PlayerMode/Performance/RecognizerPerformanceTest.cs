@@ -1,9 +1,10 @@
 using System;
 using NUnit.Framework;
-using UnistrokeGestureRecognition;
 using Unity.Collections;
 using Unity.Mathematics;
 using Unity.PerformanceTesting;
+
+using MostlyCloudy.LineGestures;
 
 public class RecognizerPerformanceTest {
     const int TEST_RUNS = 1000;

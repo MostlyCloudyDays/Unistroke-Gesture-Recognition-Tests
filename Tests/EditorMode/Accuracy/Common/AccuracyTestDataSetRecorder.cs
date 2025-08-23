@@ -1,6 +1,6 @@
 using System.Linq;
-using UnistrokeGestureRecognition;
-using UnistrokeGestureRecognition.Example;
+using MostlyCloudy.LineGestures;
+using MostlyCloudy.LineGestures.Samples;
 using Unity.Jobs;
 using Unity.Mathematics;
 using UnityEngine;

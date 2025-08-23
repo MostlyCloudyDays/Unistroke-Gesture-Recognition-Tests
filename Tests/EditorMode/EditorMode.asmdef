@@ -4,10 +4,10 @@
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "UnistrokeGestureRecognition.Example",
         "Unity.Mathematics",
-        "UnistrokeGestureRecognition",
-        "Unity.PerformanceTesting"
+        "Unity.PerformanceTesting",
+        "MostlyCloudy.LineGestures",
+        "MostlyCloudy.LineGestures.Samples"
     ],
     "includePlatforms": [
         "Editor"
